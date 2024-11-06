@@ -67,3 +67,6 @@ function reverseString(str) {
 
 // Testing the function
 console.log(reverseString('hello')); // Expected output: 'olleh'
+
+## Here is the slide link
+https://docs.google.com/presentation/d/1VLE5uCi0wkjR3v3asoywFr89CoYi9IRXyq3isTm9m8Q/edit?usp=sharing
